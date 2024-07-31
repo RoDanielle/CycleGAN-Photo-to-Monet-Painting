@@ -1,5 +1,7 @@
 # CycleGAN-Photo-to-Monet-Painting
 
+![Example Monet Painting](images/monet_example.jpg)
+
 ## Introduction
 CycleGAN-based deep learning project for transforming photos into Monet-style paintings, showcasing custom architecture and extensive experimentation in Python with TensorFlow Keras.
 
