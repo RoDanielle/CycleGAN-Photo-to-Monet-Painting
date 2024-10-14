@@ -1,16 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-contributors:
-
-Danielle Rotem
-
-Yuval Hajbi
-
-Uri Beeri
-
-Ron Megini
-
-Shahar Loantz
 
 # CycleGan - Photo to Monet
 
