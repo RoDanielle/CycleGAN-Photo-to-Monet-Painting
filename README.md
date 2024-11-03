@@ -20,7 +20,7 @@ CycleGAN achieves this transformation by simultaneously training two generators 
 * 7038 regular images in JPG format
 * 300 Monet paintings in JPG format
   
-### Data Preparation
+## Data Preparation
 - The Kaggle API was utilized to download the dataset efficiently.
 - A split action took place in cases where the model was trained with fewer than 300 images for each domain.
 - All images were scaled to a pixel range of [-1, 1].
@@ -29,10 +29,10 @@ CycleGAN achieves this transformation by simultaneously training two generators 
   
 **Note:** It's important to highlight that the images processed by this model are sized at 320 x 320 pixels, differing from the more common 256 x 256 pixel size. Additionally, the discriminator's receptive field size is intentionally set to differ from the standard 70 x 70. These modifications were implemented to elevate the project's complexity and to discourage the direct application of existing online projects.
 
-### Improvements Process
+## Improvements Process
 The training notebook consists all explanations and conclusions about how the best result was achieved.
 
-### How to Use
+## How to Use
 In the project's files, you can find:
 1. **Google Colab Notebooks** (inside the `notebooks` folder):
     - **ADL_Test_Notebook.ipynb**: 
@@ -54,15 +54,15 @@ In the project's files, you can find:
    - **ADL_Training_Script.py**
    These files are in Python format for your convenience.  
 
-### Trained Models
+## Trained Models
 The trained models used for this project are also included in the repository. You can use these models directly without retraining.
 
-### License
+## License
 This project is licensed under the MIT License. You are free to use, modify, and distribute this project, as long as the original license and attribution are retained. For more details, see the [LICENSE](LICENSE) file.
 
-### Contributing
+## Contributing
 Feel free to contribute by opening issues or creating pull requests.
 
-### Author
+## Author
 This project was created and is maintained by [RoDanielle](https://github.com/RoDanielle).  
 For questions, feel free to reach out via GitHub.
