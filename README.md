@@ -56,3 +56,13 @@ In the project's files, you can find:
 
 ### Trained Models
 The trained models used for this project are also included in the repository. You can use these models directly without retraining.
+
+### License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this project, as long as the original license and attribution are retained. For more details, see the [LICENSE](LICENSE) file.
+
+### Contributing
+Feel free to contribute by opening issues or creating pull requests.
+
+### Author
+This project was created and is maintained by [RoDanielle](https://github.com/RoDanielle).  
+For questions, feel free to reach out via GitHub.
