@@ -1,4 +1,9 @@
 # CycleGAN-Photo-to-Monet-Painting
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2-orange?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-red?logo=keras&logoColor=white)
+![GPU](https://img.shields.io/badge/GPU-CUDA-darkred?logo=nvidia&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ![Example Monet Painting](images/monet_example.jpg)
 
