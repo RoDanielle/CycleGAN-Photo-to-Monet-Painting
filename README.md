@@ -3,6 +3,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2-orange?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-red?logo=keras&logoColor=white)
 ![GPU](https://img.shields.io/badge/GPU-CUDA-darkred?logo=nvidia&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebooks-orange?logo=googlecolab&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ![Example Monet Painting](images/monet_example.jpg)
